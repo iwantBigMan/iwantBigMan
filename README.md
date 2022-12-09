@@ -2,6 +2,7 @@
   <b>Nice to meet you 🫡</b> </br>
   I'm Namgung Hyeon, I want to be a Mobile App Developer.🔥🔥 </br>
   I love fitness training so, my endurance and stamina are very good.:muscle: 👍</br>
+</a>
   <br>
 </p>
 
@@ -15,3 +16,14 @@
   
   
 </p> 
+
+
+<p align = "center">
+            <b>    My SNS </br></br>
+  <a href="https://instagram.com/alpox.dev">
+    <img 
+        src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://instagram.com/alpox.dev/"
+        style="height : auto; margin-left : 10px; margin-right : 10px; padding : 30px;"/>
+                                                                       </p>                                                                       
+                                                                     
+
