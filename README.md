@@ -1,6 +1,6 @@
 <p align="center">
   <b>Nice to meet you 🫡</b> </br>
-  I'm Namgung Hyeon, I want to be a Mobile App Developer.🔥🔥 </br>
+My name is Namgoong Hyun, I want to be a Mobile App Developer.🔥🔥 </br>
   I love fitness training so, my endurance and stamina are very good.:muscle: 👍</br>
 </a>
   <br>
